@@ -8,13 +8,13 @@ Computational Sciences & Mathematics, Minerva University · Class of 2027
  
 ## Overview
  
-A single static page covering my work in AI systems for education and healthcare — an on-device clinical extraction pipeline built at Children's National Hospital, a capstone designing a low-cost offline learning device for low-infrastructure schools, and ARAS, a research-reasoning tutor for students without a lab to learn in.
+A web portfolio covering my work in AI systems for education and healthcare — an on-device clinical extraction pipeline built at Children's National Hospital, a capstone designing a low-cost offline learning device for low-infrastructure schools, and ARAS, a research-reasoning tutor for students without a lab to learn in.
  
 ## What's Inside
  
 **Selected work** — three projects in depth, with the reasoning and dead ends behind each.
  
-**Atlas** — an interactive, pannable world map with a hand-drawn landmark for each of the twelve places I've lived, studied or worked. Clicking one opens that city's photographs and what happened there.
+**Atlas** — an interactive, pannable world map with a hand-drawn landmark for each of the twelve places I've lived, studied or worked. Clicking one opens that city's photographs and I did there.
  
 **Creative projects** — a children's picture book on eclipses, drawn at the NASA Space Apps Challenge, and the school magazine I edited.
  
